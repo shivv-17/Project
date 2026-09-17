@@ -1,0 +1,4 @@
+Clothes  - 7800
+Shopping - 8800
+Grocery - 4500
+Other Items - 7500
